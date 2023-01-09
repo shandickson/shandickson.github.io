@@ -1,0 +1,52 @@
+---
+title: "It's me, hi!"
+resources: Shannon.pdf
+about:
+---
+
+:::: {.columns}
+
+::: {.column width=45%}
+
+![](profile.jpg)
+
+![](sailing.jpg)
+
+![](cycling.png)
+
+:::
+
+::: {.column width=5%}
+
+:::
+
+::: {.column width=45%}
+
+Welcome to my personal page. I never really know what to say about myself but I usually start by telling people I'm Irish, a part-time statistician, part-time sailor, aspiring powerlifter and a top 0.5% Taylor Swift fan 5 years running (according to my Spotify Wrapped).
+
+Over the years, I've dabbled in-and-out of different things in a bid to keep myself entertained. I've found that while *literally everything* is interesting, I always come back to topics around methods and statistics in psychology and health sciences. This led me to my current exercise: a [Research Masters in Methodology & Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://www.uu.nl). Now in my final quarter, I'm open to work!
+
+My thesis looks at response rates in surveys and if this directly or indirectly affects bias in survey estimates. Embracing a network modelling perspective, I look at how different survey variables are associated with response rates and/or bias. Response rates are typically considered quite important, but they might not be, so I hope the findings are informative!
+
+On the side, I'm a Research Assistant at the [University Medical Center Utrecht](https://www.umcutrecht.nl/nl). More of this stuff on my [CV](Shannon.pdf). 
+
+:::
+
+::::
+
+## Interests
+
+* Methods and statistics
+* Clinical and health psychology
+* Survey research and big data
+* EMA and longitudinal data
+
+## Skills
+
+* R
+* SAS
+* JASP and SPSS
+* Python
+
+## 
+*Note: I am actively looking for interesting PhD opportunities, at the intersection of psychology and statistics. I am also very interested in statistical consulting in survey and biomedical research.*
