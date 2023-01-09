@@ -1,6 +1,6 @@
 ---
 title: "Shan"
-subtitle: "[for short]"
+subtitle: "[open to work]"
 image: dp.jpg
 resources: Shannon.pdf
 about:
@@ -24,6 +24,6 @@ about:
       icon: file-text
       href: Shannon.pdf
     - text: Research Gate
-      icon: researchgate
+      icon: rg.png
       href: https://www.researchgate.net/profile/Shannon-Dickson-3
 ---

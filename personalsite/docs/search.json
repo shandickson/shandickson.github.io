@@ -11,6 +11,41 @@
     "href": "about.html",
     "title": "It’s me, hi!",
     "section": "",
-    "text": "Welcome to my personal page. I never really know what to say about myself but I usually start my telling people I’m Irish, a part-time statistician, part-time sailor, aspiring powerlifter and a top 0.5% Taylor Swift fan 5 years running (according to my Spotify Wrapped).\nOver the years, I’ve dabbled in-and-out of different things in a bid to keep myself entertained. I’ve found that while literally everything is interesting, I always come back to topics around methods and statistics in psychology and health sciences. This led me to my current exercise: a Research Masters in Methodology & Statistics at Utrecht University. Now in my final quarter, I’m looking for someone to hire me, please.\nMy thesis looks at response rates in surveys and if this directly or indirectly affects bias in survey estimates. Embracing a network modelling perspective, how are different survey variables associated with response rates and/or bias? Response rates are typically considered quite important, but they might not be, so I hope the findings are informative!\nOn the side, I’m a Research Assistant at the University Medical Center Utrecht. You can see more of this stuff on my CV"
+    "text": "Welcome to my personal page. I never really know what to say about myself but I usually start by telling people I’m Irish, a part-time statistician, part-time sailor, aspiring powerlifter and a top 0.5% Taylor Swift fan 5 years running (according to my Spotify Wrapped).\nOver the years, I’ve dabbled in-and-out of different things in a bid to keep myself entertained. I’ve found that while literally everything is interesting, I always come back to topics around methods and statistics in psychology and health sciences. This led me to my current exercise: a Research Masters in Methodology & Statistics at Utrecht University. Now in my final quarter, I’m looking for someone to hire me, please.\nMy thesis looks at response rates in surveys and if this directly or indirectly affects bias in survey estimates. Embracing a network modelling perspective, I look at how different survey variables are associated with response rates and/or bias. Response rates are typically considered quite important, but they might not be, so I hope the findings are informative!\nOn the side, I’m a Research Assistant at the University Medical Center Utrecht. You can see more of this stuff on my CV"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Shan",
+    "section": "Interests",
+    "text": "Interests\n\nMethods and statistics\nClinical and health psychology\nSurvey research and big data\nEMA and longitudinal data"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Shan",
+    "section": "Skills",
+    "text": "Skills\nR SAS JASP and SPSS Python"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "It’s me, hi!",
+    "section": "Interests",
+    "text": "Interests\n\nMethods and statistics\nClinical and health psychology\nSurvey research and big data\nEMA and longitudinal data"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "It’s me, hi!",
+    "section": "Skills",
+    "text": "Skills\n\nR\nSAS\nJASP and SPSS\nPython"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "It’s me, hi!",
+    "section": "",
+    "text": "Note: I am actively looking for interesting PhD opportunities, at the intersection of psychology and statistics. I am also very interesting in statistical consulting in survey and biomedical research."
   }
 ]
