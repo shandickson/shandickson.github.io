@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a list of publications. My CV and Research Gate profile is likely to be more up-to-date.\n\nFirst author\n\nDickson, S., & Husain, M. (2022). Are there distinct dimensions of apathy? The argument for reappraisal Elsevier Enhanced Reader. Cortex, 149, 246–256. DOI: 10.1016/j.cortex.2022.01.001.\n\n\n\nOther contributions\n\nTabi, Y. A., Maio, M. R., Attaallah, B., Dickson, S., Drew, D., Idris, M. I., Kienast, A., Klar, V., Nobis, L., Plant, O., Saleh, Y., Sandhu, T. R., Slavkova, E., Toniolo, S., Zokaei, N., Manohar, S. G., & Husain, M. (2022). Vividness of visual imagery questionnaire scores and their relationship to visual short-term memory performance. Cortex, 146, 186–199. DOI: 10.1016/j.cortex.2021.10.011\nTabi, Y. A., Maio, M. R., Fallon, S. J., Udale, R., Dickson, S., Idris, M. I., Nobis, L., Manohar, S. G., & Husain, M. (2021). Impact of processing demands at encoding, maintenance and retrieval in visual working memory. Cognition, 214, 104758. DOI: 10.1016/j.cognition.2021.104758\nKlar, V. S., Ang, Y.-S., Lockwood, P., Attaallah, B., Dickson, S., Drew, D., Kienast, A., Maio, M. R., Plant, O., Slavkova, E., Toniolo, S., Zambellas, R., Irani, S. R., & Husain, M. (2022). Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. Journal of Neuropsychology, 16(1), 236–258. DOI:10.1111/jnp.12262\nKlar, V. S., Ang, Y.-S., Lockwood, P. L., Attaallah, B., Dickson, S., Drew, D., Kienast, A., Maio, M. R., Plant, O., Slavkova, E., Toniolo, S., Zambellas, R., Irani, S., & Husain, M. (2020). Validity of a new brief assessment of apathy: Caregiver version of the apathy motivation index. Alzheimer’s & Dementia, 16(S6), e037940. DOI:10.1002/alz.037940"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "It’s me, hi!",
-    "section": "",
-    "text": "Welcome to my personal page. I never really know what to say about myself but I usually start by telling people I’m Irish, a part-time statistician, part-time sailor, aspiring powerlifter and a top 0.5% Taylor Swift fan 5 years running (according to my Spotify Wrapped).\nOver the years, I’ve dabbled in-and-out of different things in a bid to keep myself entertained. I’ve found that while literally everything is interesting, I always come back to topics around methods and statistics in psychology and health sciences. This led me to my current exercise: a Research Masters in Methodology & Statistics at Utrecht University. Now in my final quarter, I’m looking for someone to hire me, please.\nMy thesis looks at response rates in surveys and if this directly or indirectly affects bias in survey estimates. Embracing a network modelling perspective, I look at how different survey variables are associated with response rates and/or bias. Response rates are typically considered quite important, but they might not be, so I hope the findings are informative!\nOn the side, I’m a Research Assistant at the University Medical Center Utrecht. You can see more of this stuff on my CV"
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Shan",
-    "section": "Interests",
-    "text": "Interests\n\nMethods and statistics\nClinical and health psychology\nSurvey research and big data\nEMA and longitudinal data"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Shan",
-    "section": "Skills",
-    "text": "Skills\nR SAS JASP and SPSS Python"
-  },
-  {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "It’s me, hi!",
@@ -46,6 +18,13 @@
     "href": "about.html#section",
     "title": "It’s me, hi!",
     "section": "",
-    "text": "Note: I am actively looking for interesting PhD opportunities, at the intersection of psychology and statistics. I am also very interesting in statistical consulting in survey and biomedical research."
+    "text": "Note: I am actively looking for interesting PhD opportunities, at the intersection of psychology and statistics. I am also very interested in statistical consulting in survey and biomedical research."
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a list of publications. My CV and Research Gate profile is likely to be more up-to-date.\n\nFirst author\n\nDickson, S., & Husain, M. (2022). Are there distinct dimensions of apathy? The argument for reappraisal Elsevier Enhanced Reader. Cortex, 149, 246–256. DOI: 10.1016/j.cortex.2022.01.001.\n\n\n\nOther contributions\n\nTabi, Y. A., Maio, M. R., Attaallah, B., Dickson, S., Drew, D., Idris, M. I., Kienast, A., Klar, V., Nobis, L., Plant, O., Saleh, Y., Sandhu, T. R., Slavkova, E., Toniolo, S., Zokaei, N., Manohar, S. G., & Husain, M. (2022). Vividness of visual imagery questionnaire scores and their relationship to visual short-term memory performance. Cortex, 146, 186–199. DOI: 10.1016/j.cortex.2021.10.011\nTabi, Y. A., Maio, M. R., Fallon, S. J., Udale, R., Dickson, S., Idris, M. I., Nobis, L., Manohar, S. G., & Husain, M. (2021). Impact of processing demands at encoding, maintenance and retrieval in visual working memory. Cognition, 214, 104758. DOI: 10.1016/j.cognition.2021.104758\nKlar, V. S., Ang, Y.-S., Lockwood, P., Attaallah, B., Dickson, S., Drew, D., Kienast, A., Maio, M. R., Plant, O., Slavkova, E., Toniolo, S., Zambellas, R., Irani, S. R., & Husain, M. (2022). Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. Journal of Neuropsychology, 16(1), 236–258. DOI:10.1111/jnp.12262\nKlar, V. S., Ang, Y.-S., Lockwood, P. L., Attaallah, B., Dickson, S., Drew, D., Kienast, A., Maio, M. R., Plant, O., Slavkova, E., Toniolo, S., Zambellas, R., Irani, S., & Husain, M. (2020). Validity of a new brief assessment of apathy: Caregiver version of the apathy motivation index. Alzheimer’s & Dementia, 16(S6), e037940. DOI:10.1002/alz.037940"
   }
 ]
