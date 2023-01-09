@@ -1,5 +1,5 @@
 ---
-title: "Shan"
+title: "It's me, hi!"
 subtitle: "[open to work]"
 image: dp.jpg
 resources: Shannon.pdf
