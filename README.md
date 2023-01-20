@@ -15,17 +15,29 @@ Here I indicate all of the necessary files for my site. Everything is contained 
 #### File structure 
 
 ├── shandickson.github.io
+
 ├── personalsite.Rproj
-│   ├── index.qmd
-│   ├── about.qmd
-│   ├── pubs.qmd
-│   ├── _quarto.yml
-│   ├── profile.jpg
-│   ├── sailing.jpg
-│   ├── cycling.png
-│   └── dp.jpg
+
+    ├── index.qmd
+
+    ├── about.qmd
+
+    ├── pubs.qmd
+
+    ├── _quarto.yml
+
+    ├── profile.jpg
+
+    ├── sailing.jpg
+
+    ├── cycling.png
+
+    └── dp.jpg
+
 ├── docs
+
 ├── .gitignore
+
 └── README.md
 
 ##### Explanations
