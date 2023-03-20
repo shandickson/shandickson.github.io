@@ -48,5 +48,7 @@ On the side, I'm a Research Assistant at the [University Medical Center Utrecht]
 * JASP and SPSS
 * Python
 
-## 
-*Note: I am actively looking for interesting PhD opportunities, at the intersection of psychology and statistics. I am also very interested in statistical consulting in survey and biomedical research.*
+## Consultation
+
+I am available for statistical consultations. I have a particular interest in psychological and health research, but this is not necessary for me to help you! Please get in touch by email if you would like some help. 
+
