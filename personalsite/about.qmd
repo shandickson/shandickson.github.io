@@ -22,13 +22,13 @@ about:
 
 ::: {.column width=45%}
 
-Welcome to my personal page. I never really know what to say about myself but I usually start by telling people I'm Irish, a part-time statistician, part-time sailor, aspiring powerlifter and a top 0.5% Taylor Swift fan 5 years running (according to my Spotify Wrapped).
+Welcome to my personal page. Introductions aren't my strong point, but I usually start by telling people I'm Irish, a researcher, occasional sailor and aspiring powerlifter. 
 
-Over the years, I've dabbled in-and-out of different things in a bid to keep myself entertained. I've found that while *literally everything* is interesting, I always come back to topics around methods and statistics in psychology and health sciences. This led me to my current exercise: a [Research Masters in Methodology & Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://www.uu.nl). Now in my final quarter, I'm open to work!
+Over the years, I've dabbled in-and-out of different things in a bid to keep myself entertained. I hold a [MA (Honors) in Psychology](https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=C802) at the [University of Edinburgh](https://www.ed.ac.uk/), a [Research Masters in Methodology & Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/master-msbbss) at [Utrecht University](https://www.uu.nl), and worked as a statistician and (clinical) psychologist in-between these endeavors. 
 
-My thesis looks at response rates in surveys and if this directly or indirectly affects bias in survey estimates. Embracing a network modelling perspective, I look at how different survey variables are associated with response rates and/or bias. Response rates are typically considered quite important, but they might not be, so I hope the findings are informative!
+I am currently a [PhD Candidate in Child and Adolescent Psychology/Psychiatry](https://www.erasmusmc.nl/en/sophia/research/departments-and-centers/child-psychiatry) at [Erasmus Medical Centre](https://www.erasmusmc.nl/en/) in Rotterdam. I am just at the beginning, but in 4 years time I hope to have an interesting and useful thesis about early identification of mental health problems in young people. We are using Experience Sampling Methods to track the mood and behaviour of children and adolescents throughout their day, to model risk and resilience for developing problems. My PhD is a one part of a wider flagship effort known as [PROTECt Me](https://convergence.nl/nl/flagship-protect-me/), funded by [Convergence Health and Technology](https://convergence.nl/health-technology/). I am also a member of the [Stress-in-Action Consortium](https://stress-in-action.nl/).
 
-On the side, I'm a Research Assistant at the [University Medical Center Utrecht](https://www.umcutrecht.nl/nl). More of this stuff on my [CV](Shannon.pdf). 
+That's not everything, but you can see more of this stuff on my [CV](Shannon.pdf). 
 
 :::
 
@@ -50,5 +50,5 @@ On the side, I'm a Research Assistant at the [University Medical Center Utrecht]
 
 ## Consultation
 
-I am available for statistical consultations. I have a particular interest in psychological and health research, but this is not necessary for me to help you! Please get in touch by email if you would like some help. 
+I am available for statistical consultations. I have a particular interest in teaching or in psychological and health research, but this is not necessary for me to help you! Please get in touch by email if you would like some help. 
 

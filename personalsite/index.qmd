@@ -1,6 +1,6 @@
 ---
 title: "Shan"
-subtitle: "[open to work]"
+subtitle: "[PhD Candidate, Erasmus MC]"
 image: dp.jpg
 resources: Shannon.pdf
 about:
