@@ -1,6 +1,6 @@
 ---
 title: "Shan"
-subtitle: "[PhD Candidate, Erasmus MC]"
+subtitle: "PhD Candidate, Erasmus MC"
 image: dp.jpg
 resources: Shannon.pdf
 about:
